@@ -69,7 +69,7 @@ const config = {
         title: 'Allah Says',
         logo: {
           alt: 'Allah Says Logo',
-          src: 'img/logo.svg',
+          src: 'img/quran-icon.jpg',
         },
         items: [
           {
