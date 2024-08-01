@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/quran-icon.jpg',
 
   // Set the production url of your site here
-  url: 'https://mashnoor-rashid.github.io.com',
+  url: 'https://mashnoor-rashid.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Allah-Says/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -69,7 +69,7 @@ const config = {
         title: 'Allah Says',
         logo: {
           alt: 'Allah Says Logo',
-          src: 'img/quran-icon.jpg',
+          src: 'img/logo.svg',
         },
         items: [
           {
