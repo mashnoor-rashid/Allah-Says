@@ -10,10 +10,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Allah Says',
   tagline: 'PLACEHOLDER',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/quran-icon.jpg',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://mashnoor-rashid.github.io.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -64,12 +64,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/quran-icon.jpg',
       navbar: {
         title: 'Allah Says',
         logo: {
           alt: 'Allah Says Logo',
-          src: 'img/logo.svg',
+          src: 'img/quran-icon.jpg',
         },
         items: [
           {
